@@ -3,6 +3,7 @@
 void main()
 {
 clrscr();
-print("hello this is my first paython project!!!);
+printf("hello this is my first paython project!!");
+printf("this is second line of code");  
 getch();
 }
